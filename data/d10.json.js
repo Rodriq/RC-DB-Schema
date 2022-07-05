@@ -1,0 +1,1 @@
+window.repositoryObject = {"object_id":"d10","name":"rocketchat@localhost:27017","description":null,"summary":[{"field":"Host","value":"localhost:27017"},{"field":"Database","value":"rocketchat"},{"field":"DBMS","value":"MongoDB"}],"modules":[],"dbObjects":[{"count":84,"id":"d10t","name":"Tables"}],"show_schema":false};
